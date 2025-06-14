@@ -1,0 +1,10 @@
+.tooltip-inner {
+  background-color: #3bbeff !important;
+  color: black !important;
+  font-weight: 600;
+  border-radius: 4px;
+}
+
+.tooltip.bs-tooltip-top .tooltip-arrow::before {
+  border-top-color: #3bdbff !important;
+}
