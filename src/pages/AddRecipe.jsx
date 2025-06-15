@@ -95,7 +95,7 @@ function AddRecipe({ isValid }) {
             onClick={() => setShowUploader(true)}
             style={{
               padding: '0.6rem 1.2rem',
-              borderRadius: '8px',
+              borderRadius: '10px',
               fontWeight: '500',
               color: 'violet',
             }}
