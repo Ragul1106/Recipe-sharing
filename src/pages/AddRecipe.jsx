@@ -97,7 +97,7 @@ function AddRecipe({ isValid }) {
               padding: '0.6rem 1.2rem',
               borderRadius: '8px',
               fontWeight: '500',
-              color: '#6c757d',
+              color: 'violet',
             }}
           >
             {form.image ? 'Change Image' : 'Upload Image'}
